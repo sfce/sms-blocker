@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/raw
+END
+white_num_list.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/raw/white_num_list.json
+END
+black_keyword_list.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/raw/black_keyword_list.json
+END
+black_num_list.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/raw/black_num_list.json
+END

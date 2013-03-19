@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/layout
+END
+blockedmsg_list_item_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/layout/blockedmsg_list_item_2.xml
+END
+rules_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/layout/rules_view.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/layout/main.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/layout/help.xml
+END
+add_rule_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/cc%20SMS%20Blocker/res/layout/add_rule_dialog.xml
+END
