@@ -239,7 +239,7 @@ public class SmsReceiver extends BroadcastReceiver {
     	for (int i=0;i<size;i++) {
     		try {
     			if (patternMatches(zapianStrings[i], msgbodyMatcher)&&addressnumber.length()==11) {
-    				blockMessage(mContext, "[可疑诈骗]");
+    				blockMessage(context, "[可疑诈骗]");
     				return;
     			}
     		} catch (RuntimeException e) {
